@@ -1,0 +1,16 @@
+body {
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+
+.about {
+    font: bolder;
+    font-size: 3rem;
+    color: blue;
+}
+
+.exclaim {
+    font-size: 2rem;
+    font: caption;
+    color:chocolate;
+}
